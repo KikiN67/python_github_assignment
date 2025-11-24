@@ -1,3 +1,4 @@
+
 #Water Intake Monitor
 
 This program is designed to help users track their daily water intake and see how much more they need to drink to reach their goal. The user enters the number of glasses they have consumed, and the program calculates the total ounces. It will then tells the user if they have reached their daily goal or how many more glasses of water they need. It help encourages user to keep a healthy habits and consume an appropriate amount of water each day.  
