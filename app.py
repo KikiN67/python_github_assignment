@@ -5,6 +5,7 @@ print("Welcome to my Python program!")
 print("welcome to the Water Intake Monitor!")
 
 # Step 2: Ask user for input
+
 glasses = input("How many glasses of water have you drank today?")
 
 # step 3: Convert input and handle errors
