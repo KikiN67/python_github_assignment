@@ -17,6 +17,7 @@ except ValueError:
     exit() # Stop the program if invalid input is entered
 
 # Step 4: Perform calculation
+
 ounces_per_glass = 8
 total_ounces = glasses * ounces_per_glass
 
