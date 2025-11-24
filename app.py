@@ -1,6 +1,6 @@
 # Water Intake Monitor
 # This program is designed to help users track their daily water intake and see how much more they need to drink to reach their goal. 
-
+print("Welcome to my Python program!")
 # Step 1: Welcome message
 print("welcome to the Water Intake Monitor!")
 
