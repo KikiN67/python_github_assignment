@@ -9,6 +9,7 @@ print("welcome to the Water Intake Monitor!")
 glasses = input("How many glasses of water have you drank today?")
 
 # step 3: Convert input and handle errors
+
 try:
     glasses = float(glasses) # Convert input to a numberic value 
 except ValueError:
