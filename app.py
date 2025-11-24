@@ -22,6 +22,7 @@ ounces_per_glass = 8
 total_ounces = glasses * ounces_per_glass
 
 # step 5: Display results
+
 daily_goal = 40 # Recommended daily water intake in ounces
 print(f"\nYou have consumed {total_ounces} ounces of water today.")
 
