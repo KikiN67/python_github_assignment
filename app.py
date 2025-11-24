@@ -27,6 +27,7 @@ daily_goal = 40 # Recommended daily water intake in ounces
 print(f"\nYou have consumed {total_ounces} ounces of water today.")
 
 # Step 6: Final decision & message based on progress
+
 if total_ounces >= daily_goal:
     print(f"YOU DID IT! CONGRATULATIONS! You drank {glasses} glasses of water today. You hit your water goal for today!")
 else:
